@@ -1,0 +1,8 @@
+# macOS特有の不要ファイルを無視
+.DS_Store
+._*
+
+# npmや他のツールを使い始めた時の準備（あとで活きる）
+node_modules/
+dist/
+.env
