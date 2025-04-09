@@ -25,3 +25,8 @@ p {
   font-size: 1rem;
   line-height: 1.5;
 }
+
+p.day {
+  font-size: 0.8rem;
+  color: #999;
+}
